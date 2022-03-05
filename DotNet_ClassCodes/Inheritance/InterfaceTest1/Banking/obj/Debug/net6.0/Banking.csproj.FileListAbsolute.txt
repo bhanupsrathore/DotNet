@@ -1,0 +1,12 @@
+S:\DotNet\Inheritance\AbstractClassTest\Banking\bin\Debug\net6.0\Banking.deps.json
+S:\DotNet\Inheritance\AbstractClassTest\Banking\bin\Debug\net6.0\Banking.dll
+S:\DotNet\Inheritance\AbstractClassTest\Banking\bin\Debug\net6.0\ref\Banking.dll
+S:\DotNet\Inheritance\AbstractClassTest\Banking\bin\Debug\net6.0\Banking.pdb
+S:\DotNet\Inheritance\AbstractClassTest\Banking\obj\Debug\net6.0\Banking.csproj.AssemblyReference.cache
+S:\DotNet\Inheritance\AbstractClassTest\Banking\obj\Debug\net6.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+S:\DotNet\Inheritance\AbstractClassTest\Banking\obj\Debug\net6.0\Banking.AssemblyInfoInputs.cache
+S:\DotNet\Inheritance\AbstractClassTest\Banking\obj\Debug\net6.0\Banking.AssemblyInfo.cs
+S:\DotNet\Inheritance\AbstractClassTest\Banking\obj\Debug\net6.0\Banking.csproj.CoreCompileInputs.cache
+S:\DotNet\Inheritance\AbstractClassTest\Banking\obj\Debug\net6.0\Banking.dll
+S:\DotNet\Inheritance\AbstractClassTest\Banking\obj\Debug\net6.0\ref\Banking.dll
+S:\DotNet\Inheritance\AbstractClassTest\Banking\obj\Debug\net6.0\Banking.pdb

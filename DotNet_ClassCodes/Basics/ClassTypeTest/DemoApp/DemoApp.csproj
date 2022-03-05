@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+</Project>
+
+<!--
+    dotnet build command will use this file to compile the program
+    (using .NET Compiler Platform for C#) to generate following output
+    files (in bin/Debug/net6.0 directory) required for
+    1. Execution
+       (a) shared runtime configuration (DemoApp.runtimeconfig.json)
+       (b) cross-platform program assembly (DemoApp.dll)
+       (c) assemblies from referenced project or packages (*.dll)
+       (d) platform specific program executable (DemoApp[.exe]) 
+    2. Tooling
+       (a) dependency listing (DemoApp.deps.json)
+       (b) debugging symbols (DemoApp.pdb)
+       (c) assemblies for referring projects (ref/*.dll)
+-->

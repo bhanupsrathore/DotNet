@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d4a9f1c-9bb7-4b8a-9c2b-d12d93181701": {
+      "ProjectGuid": "1d4a9f1c-9bb7-4b8a-9c2b-d12d93181701",
+      "DisplayName": "DBClientApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

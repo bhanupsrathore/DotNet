@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "acf3f542-01bc-4e2f-8ab0-b6892ed0001f": {
+      "ProjectGuid": "acf3f542-01bc-4e2f-8ab0-b6892ed0001f",
+      "DisplayName": "RichClientApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,32 @@
+import "oaidl.idl";
+
+[uuid(4AEBB8DE-98E2-4352-ABAB-C264A66A4806), object]
+interface IReduceTerms : IUnknown
+{
+	HRESULT Reduce([in] double left, [in] double right, [out, retval] double* pResult);
+};
+
+[uuid(64DCB5B5-4484-4C54-8A78-0D96FD84AF79), object]
+interface IGenerateTerms : IUnknown
+{
+	HRESULT Begin([in] double first, [in] double second, [in] double third);
+	HRESULT Generate([in, defaultvalue(0)] int skip, [out, retval] double* pTerm);
+	HRESULT Combine([in] int count, 
+		[in, defaultvalue(NULL)] IReduceTerms* pMerge, 
+		[in, defaultvalue(0)] double identity, 
+		[out, retval] double* pResult);
+};
+
+[uuid(7BCB2A3A-24D5-47FB-B9D0-FC1404DAA53A), version(1.0)]
+library FolrSeriesLib
+{
+	importlib("stdole32.tlb");
+
+	[uuid(30139810-E57A-4D5F-AD38-36D36AB078C7)]	
+	coclass CommonSequence
+	{
+		[default] interface IGenerateTerms;
+	};
+
+};
+

@@ -1,0 +1,15 @@
+S:\DotNet\Generics\ListTest\DemoApp\bin\Debug\net6.0\DemoApp.exe
+S:\DotNet\Generics\ListTest\DemoApp\bin\Debug\net6.0\DemoApp.deps.json
+S:\DotNet\Generics\ListTest\DemoApp\bin\Debug\net6.0\DemoApp.runtimeconfig.json
+S:\DotNet\Generics\ListTest\DemoApp\bin\Debug\net6.0\DemoApp.dll
+S:\DotNet\Generics\ListTest\DemoApp\bin\Debug\net6.0\ref\DemoApp.dll
+S:\DotNet\Generics\ListTest\DemoApp\bin\Debug\net6.0\DemoApp.pdb
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\DemoApp.csproj.AssemblyReference.cache
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfoInputs.cache
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfo.cs
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\DemoApp.csproj.CoreCompileInputs.cache
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\DemoApp.dll
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\ref\DemoApp.dll
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\DemoApp.pdb
+S:\DotNet\Generics\ListTest\DemoApp\obj\Debug\net6.0\DemoApp.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\bin\Debug\net6.0\ModernWebApp.Shared.deps.json
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\bin\Debug\net6.0\ModernWebApp.Shared.dll
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\bin\Debug\net6.0\ref\ModernWebApp.Shared.dll
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\bin\Debug\net6.0\ModernWebApp.Shared.pdb
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\obj\Debug\net6.0\ModernWebApp.Shared.csproj.AssemblyReference.cache
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\obj\Debug\net6.0\ModernWebApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\obj\Debug\net6.0\ModernWebApp.Shared.AssemblyInfoInputs.cache
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\obj\Debug\net6.0\ModernWebApp.Shared.AssemblyInfo.cs
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\obj\Debug\net6.0\ModernWebApp.Shared.csproj.CoreCompileInputs.cache
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\obj\Debug\net6.0\ModernWebApp.Shared.dll
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\obj\Debug\net6.0\ref\ModernWebApp.Shared.dll
+E:\CDAC\DotNet\DotNet\BlazorTest\ModernWebApp\Shared\obj\Debug\net6.0\ModernWebApp.Shared.pdb

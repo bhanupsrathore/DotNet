@@ -1,0 +1,18 @@
+@page "{id=Visitor}"
+@{
+    string name = (string) ViewContext.RouteData.Values["id"];
+}
+@inject BasicWebApp.Services.ICounter ctr
+@addTagHelper *, BasicWebApp
+<html>
+    <head>
+        <title>BasicWebApp</title>
+    </head>
+    <body>
+        <h1>Welcome @name</h1>
+        <b>Number of Greetings: </b>@ctr.CountNext(name)
+        <p>
+            <b>Current Time: </b><span clock-time-format="HH:mm:ss"></span>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "K.M. Hussain",
+  "name": "Minimum blazor wasm hosted app",
+  "description": "Project template to create minimal blazor web-assembly hosted application",
+  "identity": "KM.Hussain.In.BlazorWasmHostedMin",
+  "shortName": "blazorwasmhostedmin",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "BlazorWasmHostedMin"
+}
+

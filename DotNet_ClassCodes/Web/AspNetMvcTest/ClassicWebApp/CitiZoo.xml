@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Site xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>CitiZoo</Id>
+  <Visitors>
+    <Visitor>
+      <Id>Jack</Id>
+      <VisitCount>1</VisitCount>
+      <LastVisit>2022-02-03T10:20:13.7398223+05:30</LastVisit>
+    </Visitor>
+    <Visitor>
+      <Id>Jill</Id>
+      <VisitCount>2</VisitCount>
+      <LastVisit>2022-02-03T10:20:36.0953001+05:30</LastVisit>
+    </Visitor>
+    <Visitor>
+      <Id>John</Id>
+      <VisitCount>2</VisitCount>
+      <LastVisit>2022-02-09T11:16:37.0727572+05:30</LastVisit>
+    </Visitor>
+    <Visitor>
+      <Id>Jeff</Id>
+      <VisitCount>1</VisitCount>
+      <LastVisit>2022-02-09T11:16:24.5863529+05:30</LastVisit>
+    </Visitor>
+    <Visitor>
+      <Id>Jim</Id>
+      <VisitCount>2</VisitCount>
+      <LastVisit>2022-02-09T11:18:06.8854738+05:30</LastVisit>
+    </Visitor>
+  </Visitors>
+</Site>
